@@ -1,1 +1,1 @@
-print("Hello, World! again2")
+mprint("Hello, World! again2")
